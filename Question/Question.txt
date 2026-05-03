@@ -1,0 +1,22 @@
+Assignment 2 (individual submission)
+Completion requirements
+Opened: Sunday, 12 April 2026, 11:59 PM
+Due: Sunday, 3 May 2026, 11:59 PM
+Assignment-2 is attached and scheduled from April 12, 2026 11:59 P.M. to May 3rd, 2026 11:59 P.M..
+
+Both CNN and RNN components must be completed as part of this assignment.
+
+Total marks are 20 which will be scaled to 10 after evaluation.
+
+Instructions:
+
+All queries/clarifications shall be posted on Taxila portal - special thread will be created for discussion and clarifications.
+Queries will be addressed only until April 19, 2026. No queries will be entertained after this date.
+Submission Guidelines:
+
+Upload a total of 4 files (2 .ipynb files and 2 .html files) (Do not upload data file, it must be loaded from public datasets or URLs during runtime)
+The combined file size of all 4 files must not exceed 10 MB. Ensure to track the file sizes when you are displaying images for CNN, etc.
+CNN_Assignment_Instructions.pdfCNN_Assignment_Instructions.pdf12 April 2026, 11:38 PM
+CNN_assignment_template_clean.pyCNN_assignment_template_clean.py12 April 2026, 11:38 PM
+RNN_Assignment_Instructions.pdfRNN_Assignment_Instructions.pdf12 April 2026, 11:38 PM
+RNN_assignment_template_clean.pyRNN_assignment_template_clean.py
